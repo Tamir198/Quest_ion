@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Quest_ion/sendQuestionViewController.swift"
+            timestampString = "537007064.17878"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "sendQuestionViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quest_ion.sendQuestionViewController.ratingSlider.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISlider&gt;"
+                  moduleName = "Quest_ion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tamir/Desktop/Quest_ion-shimshon/Quest_ion/sendQuestionViewController.swift"
+                  timestampString = "536857686.219923"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quest_ion.sendQuestionViewController.ratingSlider.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UISlider&gt;"
+                  moduleName = "Quest_ion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tamir/Desktop/Quest_ion-shimshon/Quest_ion/sendQuestionViewController.swift"
+                  timestampString = "536857686.236649"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quest_ion.sendQuestionViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Quest_ion.sendQuestionViewController"
+                  moduleName = "Quest_ion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tamir/Desktop/Quest_ion-shimshon/Quest_ion/sendQuestionViewController.swift"
+                  timestampString = "536857686.249497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "854">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Quest_ion.sendQuestionViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Quest_ion.sendQuestionViewController&gt;"
+                  moduleName = "Quest_ion"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Tamir/Desktop/Quest_ion-shimshon/Quest_ion/sendQuestionViewController.swift"
+                  timestampString = "536857686.260505"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "757">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
